@@ -1,0 +1,6 @@
+[submodule "agria-frontend"]
+	path = agria-frontend
+	url = https://github.com/Einrafh/agria-frontend.git
+[submodule "agria-backend"]
+	path = agria-backend
+	url = https://github.com/ahmdyaasiin/agria-backend.git
