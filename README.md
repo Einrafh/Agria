@@ -107,8 +107,8 @@ bash
 
 ### 🔩 Our Code Repository
 
-- [FrontEnd](https://github.com/YourUsername/Agria-Frontend)
-- [BackEnd](https://github.com/YourUsername/Agria-Backend)
+- [FrontEnd](https://github.com/Einrafh/agria-frontend)
+- [BackEnd](https://github.com/ahmdyaasiin/agria-backend)
 
 ## 🌟 Credit
 
