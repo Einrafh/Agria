@@ -36,7 +36,7 @@ To run this project locally, follow the steps below:
 1. Clone the repository:
 
     bash
-    $ git clone https://github.com/YourUsername/Agria
+    $ git clone https://github.com/Einrafh/Agria
     
 
 2. Navigate into the project directory:
