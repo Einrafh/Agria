@@ -97,6 +97,7 @@ Here is a description of our application's development process.
 
 The following technologies are used to build AgriaLand:
 
+### FrontEnd
 | Technology              | Purpose                                                    |
 |-------------------------|------------------------------------------------------------|
 | *React*                | Frontend framework for building the user interface         |
@@ -105,6 +106,14 @@ The following technologies are used to build AgriaLand:
 | *React Router*         | For managing client-side routing in the frontend           |
 | *Axios*                | For making API requests from the frontend to the backend   |
 | *React Router DOM*     | For client-side routing between pages                        |
+
+### BackEnd
+Go : https://github.com/golang/go
+MySQL : https://github.com/mysql/mysql-server
+Fiber : https://github.com/gofiber/fiber
+SQLX : https://github.com/jmoiron/sqlx
+JWT : https://github.com/golang-jwt/jwt
+Redis : https://github.com/redis/go-redis
 
 ## 📂 Repository Structure
 
