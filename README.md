@@ -1,7 +1,25 @@
 # Agria
+![Cover](assets/Cover.png)
 A website that provides land rental services, centralized buying and selling of raw materials, and agricultural education features to support the development of the agricultural industry more effectively and efficiently.
 
 By BCC Ketoprak
+
+## 📑 Index
+
+- [📑 Index](#-index)
+- [📕 Overview](#-overview)
+- [📖 Features](#-features)
+- [⚡ Getting Started](#-getting-started)
+  - [👾 Installation](#-installation)
+  - [🦿 Running the Application](#-running-the-application)
+- [🔧 Development](#-development)
+- [⚙ Tech Stack](#-tech-stack)
+- [📂 Repository Structure](#-repository-structure)
+  - [🔩 Our Code Repository](#-our-code-repository)
+- [📌 Live Demo](#-live-demo)
+- [🧩 Figma](#-figma)
+- [🌟 Credit](#-credit)
+- [🔒 License](#-license)
 
 ## 📕 Overview
 
@@ -34,43 +52,37 @@ To run this project locally, follow the steps below:
 ### 👾 Installation
 
 1. Clone the repository:
-
-    bash
-    $ git clone https://github.com/YourUsername/Agria
-    
+   ```
+   $ git clone https://github.com/Einrafh/Agria
+   ```
 
 2. Navigate into the project directory:
-
-    bash
-    $ cd Agria
-    
+   ```
+   $ cd Agria
+   ```
 
 3. Install the required dependencies:
-
-    bash
-    $ npm install
-    
+   ```
+   $ npm install
+   ```
 
 4. Install additional packages for routing and API handling:
-
-    bash
-    $ npm install react-router-dom
-    $ npm install axios
-    
+   ```
+   $ npm install react-router-dom
+   $ npm install axios
+   ```
 
 ### 🦿 Running the Application
 
 1. To start the development server, use the command:
-
-    bash
-    $ npm start
-    
+   ```
+   $ npm run dev
+   ```
 
 2. For building the application for production:
-
-    bash
-    $ npm run build
-    
+   ```
+   $ npm run build
+   ``` 
 
 ## 🔧 Development
 
@@ -78,37 +90,44 @@ Here is a description of our application's development process.
 
 ## ⚙ Tech Stack
 
-The following technologies are used to build AgriaLand:
-
-| Technology              | Purpose                                                    |
-|-------------------------|------------------------------------------------------------|
+### FrontEnd
+| Technology             | Purpose                                                    |
+|------------------------|------------------------------------------------------------|
 | *React*                | Frontend framework for building the user interface         |
-| *Tailwind CSS*         | For building a responsive and customizable UI                |
-| *Vite.js*              | For fast and optimized frontend build tooling                |
+| *Tailwind CSS*         | For building a responsive and customizable UI              |
+| *Vite.js*              | For fast and optimized frontend build tooling              |
 | *React Router*         | For managing client-side routing in the frontend           |
 | *Axios*                | For making API requests from the frontend to the backend   |
-| *React Router DOM*     | For client-side routing between pages                        |
+| *React Router DOM*     | For client-side routing between pages                      |
+
+### BackEnd
+| Technology     | Purpose                                                                          |
+|----------------|----------------------------------------------------------------------------------|
+| *Go*           | Backend programming language focused on simplicity, concurrency, and performance |
+| *MySQL*        | Relational database management system for efficient data storage and retrieval   |
+| *Fiber*        | Web framework in Go for building high-performance, low-memory web applications   |
+| *SQLX*         | Go library that enhances SQL database interactions by simplifying queries        |
+| *JWT*          | Go implementation of JSON Web Tokens for secure data transmission                |
+| *Redis*        | In-memory data structure store used for database, caching, and message brokering |
 
 ## 📂 Repository Structure
 
-Here is our project file structure:
-
-bash
-├── agria_backend/     # Backend source code
-├── agria_frontend/    # Frontend source code
-├── assets/            # Static assets (e.g., logos, images)
-└── README.md          # Project documentation
-
-
-| No  | File Name            | Details                                                                                                                |
-| --- | -------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| 1   | agria_backend    | A submodule from our Backend repository, you can visit it [here](https://github.com/ahmdyaasiin/agria-backend)    |
-| 2   | agria_frontend   | A submodule from our FrontEnd repository, you can visit it [here](https://github.com/Einrafh/agria-frontend))  |
+| No  | File Name        | Details                                                                                                        |
+| --- | ---------------- | ---------------------------------------------------------------------------------------------------------------|
+| 1   | agria_backend    | A submodule from our Backend repository, you can visit it [here](https://github.com/ahmdyaasiin/agria-backend) |
+| 2   | agria_frontend   | A submodule from our FrontEnd repository, you can visit it [here](https://github.com/Einrafh/agria-frontend)  |
 
 ### 🔩 Our Code Repository
 
 - [FrontEnd](https://github.com/Einrafh/agria-frontend)
 - [BackEnd](https://github.com/ahmdyaasiin/agria-backend)
+
+## 📌 Live Demo
+https://agria-pi.vercel.app/
+
+## 🧩 Figma
+
+https://www.figma.com/design/wEakK3EyrCVkDPlz8kN40N/AGRIA?node-id=410-31&t=3zoz2OYh2IUwyfBM-1
 
 ## 🌟 Credit
 
@@ -117,6 +136,6 @@ bash
 3. Rashky Rahmadian Jauhara
 
 
-## 🔒License
+## 🔒 License
 
 © BCC Ketoprak - 2024
