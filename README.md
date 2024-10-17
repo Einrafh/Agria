@@ -17,6 +17,7 @@ By BCC Ketoprak
 - [📂 Repository Structure](#-repository-structure)
   - [🔩 Our Code Repository](#-our-code-repository)
 - [📌 Live Demo](#-live-demo)
+- [🧩 Figma](#-figma)
 - [🌟 Credit](#-credit)
 - [🔒 License](#-license)
 
@@ -129,6 +130,8 @@ Here is a description of our application's development process.
 
 ## 📌 Live Demo
 https://agria-pi.vercel.app/
+
+## 🧩 Figma
 
 https://www.figma.com/design/wEakK3EyrCVkDPlz8kN40N/AGRIA?node-id=410-31&t=3zoz2OYh2IUwyfBM-1
 
