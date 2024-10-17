@@ -95,8 +95,6 @@ Here is a description of our application's development process.
 
 ## ⚙ Tech Stack
 
-The following technologies are used to build AgriaLand:
-
 ### FrontEnd
 | Technology             | Purpose                                                    |
 |------------------------|------------------------------------------------------------|
