@@ -3,6 +3,21 @@ A website that provides land rental services, centralized buying and selling of 
 
 By BCC Ketoprak
 
+## 📑 Index
+
+- [Index](#index)
+- [📕 Overview](#overview)
+- [📖 Features](#features)
+- [⚡ Getting Started](#getting-started)
+  - [👾 Installation](#f)
+  - [🦿 Running the Application](#fitur-2)
+- [🔧 Development](#development)
+- [⚙ Tech Stack]
+- [📂 Repository Structure]
+  - [🔩 Our Code Repository]
+- [📌 Live Demo]
+- [🌟 Credit]
+
 ## 📕 Overview
 
 AgriaLand is designed to simplify the management of agricultural operations by offering three core services:
@@ -34,43 +49,43 @@ To run this project locally, follow the steps below:
 ### 👾 Installation
 
 1. Clone the repository:
-
-    bash
-    $ git clone https://github.com/Einrafh/Agria
-    
+   ```
+   bash
+   $ git clone https://github.com/Einrafh/Agria
+   ```
 
 2. Navigate into the project directory:
-
-    bash
-    $ cd Agria
-    
+   ```
+   bash
+   $ cd Agria
+   ```
 
 3. Install the required dependencies:
-
-    bash
-    $ npm install
-    
+   ```
+   bash
+   $ npm install
+   ```
 
 4. Install additional packages for routing and API handling:
-
-    bash
-    $ npm install react-router-dom
-    $ npm install axios
-    
+   ```
+   bash
+   $ npm install react-router-dom
+   $ npm install axios
+   ```
 
 ### 🦿 Running the Application
 
 1. To start the development server, use the command:
-
-    bash
-    $ npm start
-    
+   ```
+   bash
+   $ npm run dev
+   ```
 
 2. For building the application for production:
-
-    bash
-    $ npm run build
-    
+   ```
+   bash
+   $ npm run build
+   ``` 
 
 ## 🔧 Development
 
@@ -91,18 +106,9 @@ The following technologies are used to build AgriaLand:
 
 ## 📂 Repository Structure
 
-Here is our project file structure:
-
-bash
-├── agria_backend/     # Backend source code
-├── agria_frontend/    # Frontend source code
-├── assets/            # Static assets (e.g., logos, images)
-└── README.md          # Project documentation
-
-
-| No  | File Name            | Details                                                                                                                |
-| --- | -------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| 1   | agria_backend    | A submodule from our Backend repository, you can visit it [here](https://github.com/ahmdyaasiin/agria-backend)    |
+| No  | File Name        | Details                                                                                                        |
+| --- | ---------------- | ---------------------------------------------------------------------------------------------------------------|
+| 1   | agria_backend    | A submodule from our Backend repository, you can visit it [here](https://github.com/ahmdyaasiin/agria-backend) |
 | 2   | agria_frontend   | A submodule from our FrontEnd repository, you can visit it [here](https://github.com/Einrafh/agria-frontend))  |
 
 ### 🔩 Our Code Repository
