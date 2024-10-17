@@ -1,4 +1,5 @@
 # Agria
+![Cover](assets/Cover.png)
 A website that provides land rental services, centralized buying and selling of raw materials, and agricultural education features to support the development of the agricultural industry more effectively and efficiently.
 
 By BCC Ketoprak
