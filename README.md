@@ -52,7 +52,7 @@ To run this project locally, follow the steps below:
 ### 👾 Installation
 
 1. Clone the repository:
-   ``` bash
+   ```
    $ git clone https://github.com/Einrafh/Agria
    ```
 
