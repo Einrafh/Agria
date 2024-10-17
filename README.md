@@ -44,7 +44,7 @@ By BCC Ketoprak
 - [📂 Repository Structure]
   - [🔩 Our Code Repository]
 - [📌 Live Demo]
-- [🌟 Credit](#🌟-credit)
+- [🌟 Credit](#-credit)
 
 ## 📕 Overview(#overview)
 
