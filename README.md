@@ -31,7 +31,7 @@ A website that provides land rental services, centralized buying and selling of 
 
 By BCC Ketoprak
 
-## [📑 Index](#index)
+## 📑 Index](#index)
 
 - [📑 Index](#index)
 - [📕 Overview](#overview)
@@ -44,7 +44,7 @@ By BCC Ketoprak
 - [📂 Repository Structure]
   - [🔩 Our Code Repository]
 - [📌 Live Demo]
-- [🌟 Credit](#credit)
+- [🌟 Credit](#🌟-credit)
 
 ## 📕 Overview(#overview)
 
@@ -147,7 +147,7 @@ The following technologies are used to build AgriaLand:
 ## 📌 Live Demo
 https://agria-pi.vercel.app/
 
-## [🌟 Credit](#credit)
+## 🌟 Credit
 
 1. Muhammad Rafly Ash Shiddiqi
 2. Humaam Ahmad Yaasiin
