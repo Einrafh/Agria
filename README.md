@@ -3,7 +3,7 @@ A website that provides land rental services, centralized buying and selling of 
 
 By BCC Ketoprak
 
-## 📑 Index(#index)
+## [📑 Index](#index)
 
 - [📑 Index](#index)
 - [📕 Overview](#overview)
