@@ -58,19 +58,16 @@ To run this project locally, follow the steps below:
 
 2. Navigate into the project directory:
    ```
-   bash
    $ cd Agria
    ```
 
 3. Install the required dependencies:
    ```
-   bash
    $ npm install
    ```
 
 4. Install additional packages for routing and API handling:
    ```
-   bash
    $ npm install react-router-dom
    $ npm install axios
    ```
@@ -79,13 +76,11 @@ To run this project locally, follow the steps below:
 
 1. To start the development server, use the command:
    ```
-   bash
    $ npm run dev
    ```
 
 2. For building the application for production:
    ```
-   bash
    $ npm run build
    ``` 
 
