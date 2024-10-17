@@ -3,9 +3,9 @@ A website that provides land rental services, centralized buying and selling of 
 
 By BCC Ketoprak
 
-## 📑 Index
+## 📑 Index (#index)
 
-- [Index](#index)
+- [📑 Index](#index)
 - [📕 Overview](#overview)
 - [📖 Features](#features)
 - [⚡ Getting Started](#getting-started)
@@ -18,7 +18,7 @@ By BCC Ketoprak
 - [📌 Live Demo]
 - [🌟 Credit]
 
-## 📕 Overview
+## 📕 Overview (#overview)
 
 AgriaLand is designed to simplify the management of agricultural operations by offering three core services:
 1. A streamlined *land leasing system* for farmers and agribusiness owners.
