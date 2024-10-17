@@ -1,3 +1,31 @@
+# Dokumentasi Proyek
+
+## Daftar Isi
+- [Pendahuluan](#pendahuluan)
+- [Fitur](#fitur)
+  - [Fitur 1](#fitur-1)
+  - [Fitur 2](#fitur-2)
+- [Cara Penggunaan](#cara-penggunaan)
+- [Lisensi](#lisensi)
+
+## Pendahuluan
+Ini adalah proyek...
+
+## Fitur
+### Fitur 1
+Deskripsi fitur 1...
+
+### Fitur 2
+Deskripsi fitur 2...
+
+## Cara Penggunaan
+Panduan penggunaan...
+
+## Lisensi
+Informasi lisensi...
+
+
+
 # Agria
 A website that provides land rental services, centralized buying and selling of raw materials, and agricultural education features to support the development of the agricultural industry more effectively and efficiently.
 
