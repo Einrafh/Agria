@@ -98,30 +98,24 @@ Here is a description of our application's development process.
 The following technologies are used to build AgriaLand:
 
 ### FrontEnd
-| Technology              | Purpose                                                    |
-|-------------------------|------------------------------------------------------------|
+| Technology             | Purpose                                                    |
+|------------------------|------------------------------------------------------------|
 | *React*                | Frontend framework for building the user interface         |
-| *Tailwind CSS*         | For building a responsive and customizable UI                |
-| *Vite.js*              | For fast and optimized frontend build tooling                |
+| *Tailwind CSS*         | For building a responsive and customizable UI              |
+| *Vite.js*              | For fast and optimized frontend build tooling              |
 | *React Router*         | For managing client-side routing in the frontend           |
 | *Axios*                | For making API requests from the frontend to the backend   |
-| *React Router DOM*     | For client-side routing between pages                        |
+| *React Router DOM*     | For client-side routing between pages                      |
 
 ### BackEnd
-| Technology     | Purpose                                                    |
-|----------------|------------------------------------------------------------|
-| *Go*           | Frontend framework for building the user interface         |
-| *MySQL*        | For building a responsive and customizable UI                |
-| *Fiber*        | For fast and optimized frontend build tooling                |
-| *SQLX*         | For managing client-side routing in the frontend           |
-| *JWT*          | For making API requests from the frontend to the backend   |
-| *Redis*        | For client-side routing between pages                        |
-Go : https://github.com/golang/go
-MySQL : https://github.com/mysql/mysql-server
-Fiber : https://github.com/gofiber/fiber
-SQLX : https://github.com/jmoiron/sqlx
-JWT : https://github.com/golang-jwt/jwt
-Redis : https://github.com/redis/go-redis
+| Technology     | Purpose                                                                          |
+|----------------|----------------------------------------------------------------------------------|
+| *Go*           | Backend programming language focused on simplicity, concurrency, and performance |
+| *MySQL*        | Relational database management system for efficient data storage and retrieval   |
+| *Fiber*        | Web framework in Go for building high-performance, low-memory web applications   |
+| *SQLX*         | Go library that enhances SQL database interactions by simplifying queries        |
+| *JWT*          | Go implementation of JSON Web Tokens for secure data transmission                |
+| *Redis*        | In-memory data structure store used for database, caching, and message brokering |
 
 ## 📂 Repository Structure
 
