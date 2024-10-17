@@ -108,6 +108,14 @@ The following technologies are used to build AgriaLand:
 | *React Router DOM*     | For client-side routing between pages                        |
 
 ### BackEnd
+| Technology     | Purpose                                                    |
+|----------------|------------------------------------------------------------|
+| *Go*           | Frontend framework for building the user interface         |
+| *MySQL*        | For building a responsive and customizable UI                |
+| *Fiber*        | For fast and optimized frontend build tooling                |
+| *SQLX*         | For managing client-side routing in the frontend           |
+| *JWT*          | For making API requests from the frontend to the backend   |
+| *Redis*        | For client-side routing between pages                        |
 Go : https://github.com/golang/go
 MySQL : https://github.com/mysql/mysql-server
 Fiber : https://github.com/gofiber/fiber
