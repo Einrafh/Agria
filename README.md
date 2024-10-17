@@ -121,7 +121,7 @@ Here is a description of our application's development process.
 | No  | File Name        | Details                                                                                                        |
 | --- | ---------------- | ---------------------------------------------------------------------------------------------------------------|
 | 1   | agria_backend    | A submodule from our Backend repository, you can visit it [here](https://github.com/ahmdyaasiin/agria-backend) |
-| 2   | agria_frontend   | A submodule from our FrontEnd repository, you can visit it [here](https://github.com/Einrafh/agria-frontend))  |
+| 2   | agria_frontend   | A submodule from our FrontEnd repository, you can visit it [here](https://github.com/Einrafh/agria-frontend)  |
 
 ### 🔩 Our Code Repository
 
