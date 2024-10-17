@@ -1,31 +1,3 @@
-# Dokumentasi Proyek
-
-## Daftar Isi
-- [Pendahuluan](#pendahuluan)
-- [Fitur](#fitur)
-  - [Fitur 1](#fitur-1)
-  - [Fitur 2](#fitur-2)
-- [Cara Penggunaan](#cara-penggunaan)
-- [Lisensi](#lisensi)
-
-## Pendahuluan
-Ini adalah proyek...
-
-## Fitur
-### Fitur 1
-Deskripsi fitur 1...
-
-### Fitur 2
-Deskripsi fitur 2...
-
-## Cara Penggunaan
-Panduan penggunaan...
-
-## Lisensi
-Informasi lisensi...
-
-
-
 # Agria
 A website that provides land rental services, centralized buying and selling of raw materials, and agricultural education features to support the development of the agricultural industry more effectively and efficiently.
 
@@ -33,20 +5,21 @@ By BCC Ketoprak
 
 ## 📑 Index](#index)
 
-- [📑 Index](#index)
-- [📕 Overview](#overview)
-- [📖 Features](#features)
-- [⚡ Getting Started](#getting-started)
-  - [👾 Installation](#f)
-  - [🦿 Running the Application](#fitur-2)
-- [🔧 Development](#development)
-- [⚙ Tech Stack]
-- [📂 Repository Structure]
-  - [🔩 Our Code Repository]
-- [📌 Live Demo]
+- [📑 Index](#-index)
+- [📕 Overview](#-overview)
+- [📖 Features](#-features)
+- [⚡ Getting Started](#-getting-started)
+  - [👾 Installation](#-installation)
+  - [🦿 Running the Application](#-running-the-application)
+- [🔧 Development](#-development)
+- [⚙ Tech Stack](#-tech-stack)
+- [📂 Repository Structure](#-repository-structure)
+  - [🔩 Our Code Repository](#-our-code-repository)
+- [📌 Live Demo](#-live-demo)
 - [🌟 Credit](#-credit)
+- [🔒 License](#-license)
 
-## 📕 Overview(#overview)
+## 📕 Overview
 
 AgriaLand is designed to simplify the management of agricultural operations by offering three core services:
 1. A streamlined *land leasing system* for farmers and agribusiness owners.
@@ -154,6 +127,6 @@ https://agria-pi.vercel.app/
 3. Rashky Rahmadian Jauhara
 
 
-## 🔒License
+## 🔒 License
 
 © BCC Ketoprak - 2024
