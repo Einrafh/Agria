@@ -16,7 +16,7 @@ By BCC Ketoprak
 - [📂 Repository Structure]
   - [🔩 Our Code Repository]
 - [📌 Live Demo]
-- [🌟 Credit]
+- [🌟 Credit](#credit)
 
 ## 📕 Overview(#overview)
 
@@ -119,7 +119,7 @@ The following technologies are used to build AgriaLand:
 ## 📌 Live Demo
 https://agria-pi.vercel.app/
 
-## 🌟 Credit
+## [🌟 Credit](#credit)
 
 1. Muhammad Rafly Ash Shiddiqi
 2. Humaam Ahmad Yaasiin
