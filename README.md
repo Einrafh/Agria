@@ -23,7 +23,7 @@ By BCC Ketoprak
 
 ## 📕 Overview
 
-AgriaLand is designed to simplify the management of agricultural operations by offering three core services:
+Agria is designed to simplify the management of agricultural operations by offering three core services:
 1. A streamlined *land leasing system* for farmers and agribusiness owners.
 2. A secure, centralized platform for *raw material trading*.
 3. Access to valuable *educational resources* to enhance farming knowledge and skills.
